@@ -27,7 +27,8 @@ Software engineer with 11+ years of experience building scalable systems in fint
 
 **Frameworks & Tools**
 ![Actix-web](https://img.shields.io/badge/-Actix--web-000000?style=flat-square&logo=rust&logoColor=white)
-![Mulesoft](https://img.shields.io/badge/-Mulesoft-00A0DF?style=flat-square&logo=mulesoft&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 ### 🏆 Key Achievements
 
