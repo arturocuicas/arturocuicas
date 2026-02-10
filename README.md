@@ -55,6 +55,5 @@ When I'm not architecting systems, you'll find me:
 
 ---
 
-💡 *Open to CTO and senior technical leadership opportunities in fintech*
+💡 *Open to senior technical leadership opportunities in fintech*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dark)
